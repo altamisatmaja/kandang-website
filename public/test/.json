@@ -1,0 +1,1088 @@
+[
+    {
+        "id": 1,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino DAda 31 a",
+        "diskon": 0,
+        "created_at": "2024-04-12T08:03:46.000000Z",
+        "updated_at": "2024-05-06T07:10:59.000000Z",
+        "id_partner": 3,
+        "gambar_hewan": "user.jpeg",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino-dada-31-a",
+        "status": "Tidak Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 3,
+                "id_user": 43,
+                "nama_partner": "aad",
+                "nama_perusahaan_partner": "aadacc",
+                "provinsi_partner": "13",
+                "kabupaten_partner": "1304",
+                "kecamatan_partner": "130403",
+                "kelurahan_partner": "1304032003",
+                "alamat_partner": "adacac",
+                "foto_profil": "17123148794.jpeg",
+                "created_at": "2024-04-05T11:01:19.000000Z",
+                "updated_at": "2024-04-05T11:01:19.000000Z",
+                "foto_peternakan": "17123148791.jpeg",
+                "lama_peternakan_berdiri": 6,
+                "latitude": "-7.3860746",
+                "longitude": "111.3720696",
+                "status": "Belum terverifikasi",
+                "tanggal_lahir": "2024-01-04 00:00:00",
+                "jenis_kelamin": "Laki-laki",
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [
+            {
+                "id": 6,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            },
+            {
+                "id": 7,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            },
+            {
+                "id": 8,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            },
+            {
+                "id": 9,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            },
+            {
+                "id": 10,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            },
+            {
+                "id": 11,
+                "nama_testimoni": "Sapi1aaccca",
+                "deskripsi": "Sapisapiadadadaad",
+                "gambar": "17119044054.jpeg",
+                "created_at": "2024-03-31T17:00:05.000000Z",
+                "updated_at": "2024-03-31T17:03:30.000000Z",
+                "id_user": 4,
+                "id_products": 1,
+                "membantu": 2,
+                "slug_testimonial": "sapii"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 4,
+                "id_product": 1,
+                "id_user": 1,
+                "review": "Mantap",
+                "rating": 1,
+                "created_at": "2024-03-31T16:40:25.000000Z",
+                "updated_at": "2024-03-31T16:40:25.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "harga_product": 75333,
+        "id_kategori": 1,
+        "nama_product": "Hewan Jawa",
+        "diskon": 0,
+        "created_at": "2024-04-06T18:55:29.000000Z",
+        "updated_at": "2024-05-06T07:11:48.000000Z",
+        "id_partner": 2,
+        "gambar_hewan": "17107921807.jpeg",
+        "id_jenis_gender_hewan": 2,
+        "lahir_hewan": 1,
+        "berat_hewan_ternak": "98",
+        "stok_hewan_ternak": 8,
+        "terjual": 5,
+        "deskripsi_product": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar",
+        "id_typelivestocks": 3,
+        "slug_product": "hewan-jawa-2",
+        "status": "Tidak Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 2,
+                "nama_gender": "Betina",
+                "deskripsi": "Kambing pebetina",
+                "created_at": "2024-03-28T07:41:21.000000Z",
+                "updated_at": "2024-03-28T07:41:21.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 2,
+                "id_user": 1,
+                "nama_partner": "Peternakan Farm",
+                "nama_perusahaan_partner": "Farm Express",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngale",
+                "foto_profil": "user.jpeg",
+                "created_at": "2024-03-28T07:11:40.000000Z",
+                "updated_at": "2024-04-05T20:27:44.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-5.414",
+                "longitude": "123.1231",
+                "status": "Sudah diverifikasi",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 60,
+        "harga_product": 58773,
+        "id_kategori": 1,
+        "nama_product": "Hewan Jawa",
+        "diskon": 0,
+        "created_at": "2024-04-06T18:55:29.000000Z",
+        "updated_at": "2024-04-06T18:55:29.000000Z",
+        "id_partner": 4,
+        "gambar_hewan": "17107921807.jpeg",
+        "id_jenis_gender_hewan": 2,
+        "lahir_hewan": 1,
+        "berat_hewan_ternak": "32",
+        "stok_hewan_ternak": 5,
+        "terjual": 3,
+        "deskripsi_product": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar",
+        "id_typelivestocks": 2,
+        "slug_product": "hewan-jawa-4",
+        "status": "Aktif",
+        "id_category_livestocks": 3,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 3,
+                "nama_kategori_hewan": "Kambingak",
+                "deskripsi_kategori_hewan": "Kambing adalah hewan ternak ruminansia lainnya yang sering dipelihara untuk daging dan susu. Mereka juga memiliki kemampuan untuk memanfaatkan lahan yang kurang subur",
+                "created_at": "2024-03-27T08:34:13.000000Z",
+                "updated_at": "2024-05-05T06:25:39.000000Z",
+                "slug": "kambingak",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 2,
+                "nama_gender": "Betina",
+                "deskripsi": "Kambing pebetina",
+                "created_at": "2024-03-28T07:41:21.000000Z",
+                "updated_at": "2024-03-28T07:41:21.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 4,
+                "id_user": 51,
+                "nama_partner": "adada",
+                "nama_perusahaan_partner": "dadad",
+                "provinsi_partner": "JAWA TIMUR",
+                "kabupaten_partner": "KAB. NGAWI",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Paron",
+                "alamat_partner": "adadada",
+                "foto_profil": "17123476555.png",
+                "created_at": "2024-04-05T20:07:35.000000Z",
+                "updated_at": "2024-04-05T20:07:35.000000Z",
+                "foto_peternakan": "17123476559.png",
+                "lama_peternakan_berdiri": 7,
+                "latitude": "-7.385963",
+                "longitude": "111.3720504",
+                "status": "Belum terverifikasi",
+                "tanggal_lahir": "2024-01-12 00:00:00",
+                "jenis_kelamin": "Laki-laki",
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 61,
+        "harga_product": 64144,
+        "id_kategori": 1,
+        "nama_product": "Hewan Jawa",
+        "diskon": 0,
+        "created_at": "2024-04-06T18:55:29.000000Z",
+        "updated_at": "2024-04-06T18:55:29.000000Z",
+        "id_partner": 5,
+        "gambar_hewan": "17107921807.jpeg",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 1,
+        "berat_hewan_ternak": "25",
+        "stok_hewan_ternak": 7,
+        "terjual": 4,
+        "deskripsi_product": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar",
+        "id_typelivestocks": 9,
+        "slug_product": "hewan-jawa-5",
+        "status": "Aktif",
+        "id_category_livestocks": 2,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 2,
+                "nama_kategori_hewan": "Domba",
+                "deskripsi_kategori_hewan": "Domba merupakan hewan ternak ruminansia yang populer. Mereka dipelihara untuk daging, wol, dan susu mereka",
+                "created_at": "2024-03-26T20:36:53.000000Z",
+                "updated_at": "2024-03-27T04:47:03.000000Z",
+                "slug": "domba",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 5,
+                "id_user": 45,
+                "nama_partner": "PADpadad",
+                "nama_perusahaan_partner": "apdapdaod",
+                "provinsi_partner": "35",
+                "kabupaten_partner": "3509",
+                "kecamatan_partner": "350921",
+                "kelurahan_partner": "3509211002",
+                "alamat_partner": "Kos rizqi",
+                "foto_profil": "17123237244.jpeg",
+                "created_at": "2024-04-05T13:28:44.000000Z",
+                "updated_at": "2024-04-05T13:30:06.000000Z",
+                "foto_peternakan": "17123237249.jpeg",
+                "lama_peternakan_berdiri": 12,
+                "latitude": "-7.4147478",
+                "longitude": "111.4386393",
+                "status": "Sudah diverifikasi",
+                "tanggal_lahir": "2024-01-12 00:00:00",
+                "jenis_kelamin": "Laki-laki",
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 62,
+        "harga_product": 94475,
+        "id_kategori": 1,
+        "nama_product": "Hewan Jawa",
+        "diskon": 0,
+        "created_at": "2024-04-06T18:55:29.000000Z",
+        "updated_at": "2024-04-06T18:55:29.000000Z",
+        "id_partner": 8,
+        "gambar_hewan": "17107921807.jpeg",
+        "id_jenis_gender_hewan": 2,
+        "lahir_hewan": 2,
+        "berat_hewan_ternak": "77",
+        "stok_hewan_ternak": 8,
+        "terjual": 4,
+        "deskripsi_product": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar",
+        "id_typelivestocks": 4,
+        "slug_product": "hewan-jawa-6",
+        "status": "Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 2,
+                "nama_gender": "Betina",
+                "deskripsi": "Kambing pebetina",
+                "created_at": "2024-03-28T07:41:21.000000Z",
+                "updated_at": "2024-03-28T07:41:21.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 8,
+                "id_user": 52,
+                "nama_partner": "adada",
+                "nama_perusahaan_partner": "cccccc",
+                "provinsi_partner": "JAWA TIMUR",
+                "kabupaten_partner": "KAB. NGAWI",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "papap",
+                "foto_profil": "17123477625.png",
+                "created_at": "2024-04-05T20:09:22.000000Z",
+                "updated_at": "2024-04-05T20:09:22.000000Z",
+                "foto_peternakan": "17123477622.png",
+                "lama_peternakan_berdiri": 7,
+                "latitude": "-7.385963",
+                "longitude": "111.3720504",
+                "status": "Belum terverifikasi",
+                "tanggal_lahir": "2024-04-04 00:00:00",
+                "jenis_kelamin": "Laki-laki",
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 64,
+        "harga_product": 92724,
+        "id_kategori": 1,
+        "nama_product": "Hewan Jawa",
+        "diskon": 0,
+        "created_at": "2024-04-06T18:55:29.000000Z",
+        "updated_at": "2024-04-06T18:55:29.000000Z",
+        "id_partner": 8,
+        "gambar_hewan": "17107921807.jpeg",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 2,
+        "berat_hewan_ternak": "38",
+        "stok_hewan_ternak": 6,
+        "terjual": 5,
+        "deskripsi_product": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar",
+        "id_typelivestocks": 8,
+        "slug_product": "hewan-jawa-8",
+        "status": "Aktif",
+        "id_category_livestocks": 3,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 3,
+                "nama_kategori_hewan": "Kambingak",
+                "deskripsi_kategori_hewan": "Kambing adalah hewan ternak ruminansia lainnya yang sering dipelihara untuk daging dan susu. Mereka juga memiliki kemampuan untuk memanfaatkan lahan yang kurang subur",
+                "created_at": "2024-03-27T08:34:13.000000Z",
+                "updated_at": "2024-05-05T06:25:39.000000Z",
+                "slug": "kambingak",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 8,
+                "id_user": 52,
+                "nama_partner": "adada",
+                "nama_perusahaan_partner": "cccccc",
+                "provinsi_partner": "JAWA TIMUR",
+                "kabupaten_partner": "KAB. NGAWI",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "papap",
+                "foto_profil": "17123477625.png",
+                "created_at": "2024-04-05T20:09:22.000000Z",
+                "updated_at": "2024-04-05T20:09:22.000000Z",
+                "foto_peternakan": "17123477622.png",
+                "lama_peternakan_berdiri": 7,
+                "latitude": "-7.385963",
+                "longitude": "111.3720504",
+                "status": "Belum terverifikasi",
+                "tanggal_lahir": "2024-04-04 00:00:00",
+                "jenis_kelamin": "Laki-laki",
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 67,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino",
+        "diskon": 0,
+        "created_at": "2024-04-12T07:57:47.000000Z",
+        "updated_at": "2024-04-12T07:57:47.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17129086678.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino",
+        "status": "Aktif",
+        "id_category_livestocks": 2,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 2,
+                "nama_kategori_hewan": "Domba",
+                "deskripsi_kategori_hewan": "Domba merupakan hewan ternak ruminansia yang populer. Mereka dipelihara untuk daging, wol, dan susu mereka",
+                "created_at": "2024-03-26T20:36:53.000000Z",
+                "updated_at": "2024-03-27T04:47:03.000000Z",
+                "slug": "domba",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 68,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino DAda 31 a",
+        "diskon": 0,
+        "created_at": "2024-04-12T07:58:06.000000Z",
+        "updated_at": "2024-04-12T07:58:06.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17129086866.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino-dada-31-a",
+        "status": "Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 69,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino DAda 31 a",
+        "diskon": 0,
+        "created_at": "2024-04-12T08:01:00.000000Z",
+        "updated_at": "2024-04-12T08:01:00.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17129088603.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino-dada-31-a",
+        "status": "Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 70,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino DAda 31 a",
+        "diskon": 0,
+        "created_at": "2024-04-12T08:01:41.000000Z",
+        "updated_at": "2024-04-12T08:01:41.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17129089011.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino-dada-31-a",
+        "status": "Aktif",
+        "id_category_livestocks": 3,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 3,
+                "nama_kategori_hewan": "Kambingak",
+                "deskripsi_kategori_hewan": "Kambing adalah hewan ternak ruminansia lainnya yang sering dipelihara untuk daging dan susu. Mereka juga memiliki kemampuan untuk memanfaatkan lahan yang kurang subur",
+                "created_at": "2024-03-27T08:34:13.000000Z",
+                "updated_at": "2024-05-05T06:25:39.000000Z",
+                "slug": "kambingak",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 71,
+        "harga_product": 50000,
+        "id_kategori": 1,
+        "nama_product": "Kambing Cino DAda 31 a",
+        "diskon": 0,
+        "created_at": "2024-04-12T08:02:08.000000Z",
+        "updated_at": "2024-04-12T08:02:08.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17129089287.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 3,
+        "berat_hewan_ternak": "120",
+        "stok_hewan_ternak": 41,
+        "terjual": 2,
+        "deskripsi_product": "Barang bebas aja bos",
+        "id_typelivestocks": 3,
+        "slug_product": "kambing-cino-dada-31-a",
+        "status": "Aktif",
+        "id_category_livestocks": 1,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 1,
+                "nama_kategori_hewan": "Sapi",
+                "deskripsi_kategori_hewan": "Sapi adalah salah satu hewan ternak ruminansia yang paling umum. Mereka memiliki peran penting dalam industri peternakan untuk produksi susu dan daging",
+                "created_at": "2024-03-26T13:52:50.000000Z",
+                "updated_at": "2024-03-27T03:55:56.000000Z",
+                "slug": "sapi",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": []
+    },
+    {
+        "id": 73,
+        "harga_product": 141,
+        "id_kategori": 1,
+        "nama_product": "adad",
+        "diskon": 14,
+        "created_at": "2024-04-13T18:09:09.000000Z",
+        "updated_at": "2024-04-13T18:09:09.000000Z",
+        "id_partner": 1,
+        "gambar_hewan": "17130317496.png",
+        "id_jenis_gender_hewan": 1,
+        "lahir_hewan": 14,
+        "berat_hewan_ternak": "14",
+        "stok_hewan_ternak": 14,
+        "terjual": 0,
+        "deskripsi_product": "aada",
+        "id_typelivestocks": 1,
+        "slug_product": "adad",
+        "status": "Aktif",
+        "id_category_livestocks": 2,
+        "pengiriman": "Pengiriman Internal",
+        "categorylivestocks": [
+            {
+                "id": 2,
+                "nama_kategori_hewan": "Domba",
+                "deskripsi_kategori_hewan": "Domba merupakan hewan ternak ruminansia yang populer. Mereka dipelihara untuk daging, wol, dan susu mereka",
+                "created_at": "2024-03-26T20:36:53.000000Z",
+                "updated_at": "2024-03-27T04:47:03.000000Z",
+                "slug": "domba",
+                "gambar_kategori_hewan": "user.jpeg"
+            }
+        ],
+        "categoryproduct": [
+            {
+                "id": 1,
+                "nama_kategori_product": "Hewan Ternak",
+                "deskripsi_kategori_product": "Hewan ternak adalah hewan yang dibudidayakan oleh manusia untuk berbagai tujuan",
+                "gambar_kategori_product": "user.jpeg",
+                "created_at": "2024-03-26T06:35:09.000000Z",
+                "updated_at": "2024-04-29T03:17:04.000000Z",
+                "slug_kategori_product": "hewan-ternak"
+            }
+        ],
+        "gender_livestocks": [
+            {
+                "id": 1,
+                "nama_gender": "Jantan",
+                "deskripsi": "Kambing pejantan",
+                "created_at": "2024-03-28T07:40:46.000000Z",
+                "updated_at": "2024-03-28T07:40:46.000000Z"
+            }
+        ],
+        "partner": [
+            {
+                "id": 1,
+                "id_user": 3,
+                "nama_partner": "Admin Farmssaaaaa",
+                "nama_perusahaan_partner": "Farm Expresss",
+                "provinsi_partner": "Jawa Timur",
+                "kabupaten_partner": "Ngawi",
+                "kecamatan_partner": "Paron",
+                "kelurahan_partner": "Ngale",
+                "alamat_partner": "Ngaleaa",
+                "foto_profil": "17116098652.jpeg",
+                "created_at": "2024-03-28T07:11:05.000000Z",
+                "updated_at": "2024-04-18T09:53:14.000000Z",
+                "foto_peternakan": "",
+                "lama_peternakan_berdiri": 0,
+                "latitude": "-6.114",
+                "longitude": "101.23",
+                "status": "Dinonaktifkan",
+                "tanggal_lahir": null,
+                "jenis_kelamin": null,
+                "no_hp": null,
+                "nama_pemilik_rekening": null,
+                "nomor_rekening": null,
+                "id_bank": null
+            }
+        ],
+        "testimonial": [],
+        "reviews": [
+            {
+                "id": 2,
+                "id_product": 73,
+                "id_user": 1,
+                "review": "Mantap",
+                "rating": 5,
+                "created_at": "2024-03-31T16:40:25.000000Z",
+                "updated_at": "2024-03-31T16:40:25.000000Z"
+            },
+            {
+                "id": 5,
+                "id_product": 73,
+                "id_user": 1,
+                "review": "Mantap",
+                "rating": 5,
+                "created_at": "2024-03-31T16:40:25.000000Z",
+                "updated_at": "2024-03-31T16:40:25.000000Z"
+            }
+        ]
+    }
+]
