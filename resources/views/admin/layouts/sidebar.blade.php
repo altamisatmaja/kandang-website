@@ -68,7 +68,7 @@
                     <li>
                         <button type="button"
                             class="flex items-center w-full p-2 text-base font-normal text-gray-900 transition duration-75 rounded-lg group hover:bg-primarybase hover:text-white"
-                            aria-controls="dropdown-efarm-partner" data-collapse-toggle="dropdown-Kandang-partner">
+                            aria-controls="dropdown-efarm-partner" data-collapse-toggle="dropdown-efarm-partner">
                             <svg class="flex-shrink-0 w-6 h-6 text-gray-500 transition duration-75 group-hover:text-white"
                                 xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960"
                                 fill="currentColor" width="24">
