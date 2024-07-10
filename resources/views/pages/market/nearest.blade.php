@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Terdekat')
+@section('title', 'Kandang | Terdekat')
 
 @section('content')
     <style>

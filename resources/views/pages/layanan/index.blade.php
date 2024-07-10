@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Terdekat')
+@section('title', 'Kandang | Terdekat')
 
 @section('content')
     <div>
@@ -18,7 +18,7 @@
 
                             <div class="mt-5 max-w-3xl">
                                 <p class="text-lg text-textbase">Kelola peternakan, jual hewan ternak, beli hewan ternak
-                                    dengan berbagai layanan yang tersedia di eFarm.</p>
+                                    dengan berbagai layanan yang tersedia di Kandang.</p>
                             </div>
                         </div>
                     </div>
@@ -101,13 +101,13 @@
                     <div class="max-w-2xl text-center mx-auto">
                         <div class="mt-5 max-w-2xl">
                             <h1 class="block font-bold text-textbase text-5xl md:text-5xl lg:text-6xl">
-                                Berbagai produk yang tersedia di eFarm
+                                Berbagai produk yang tersedia di Kandang
                             </h1>
                         </div>
 
                         <div class="mt-5 max-w-3xl">
                             <p class="text-lg text-textbase">Kelola peternakan, jual hewan ternak, beli hewan ternak
-                                dengan berbagai layanan yang tersedia di eFarm.</p>
+                                dengan berbagai layanan yang tersedia di Kandang.</p>
                         </div>
                     </div>
                 </div>

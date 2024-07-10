@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Login')
+@section('title', 'Kandang | Login')
 
 @section('content')
     <style>
@@ -133,7 +133,7 @@
                         if (!data.success) {
                             alert(data.message);
                         } else if (data.token) {
-                            localStorage.setItem('token-efarm', data.token);
+                            localStorage.setItem('token-Kandang', data.token);
                             window.location.href = "/personal/account";
                         } else {
                             alert("Token tidak ditemukan dalam respon dari server.");

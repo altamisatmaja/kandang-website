@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Partner')
+@section('title', 'Kandang | Partner')
 
 @section('content')
     <div>
@@ -77,7 +77,7 @@
             <p rel="noreferrer"
                 class="border cursor-pointer rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out">
                 Jadi partner
-                <span class="font-semibold">eFarm</span> sekarang
+                <span class="font-semibold">Kandang</span> sekarang
             </p>
             <h1 class="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-textbase sm:text-7xl">
                 Ajukan menjadi

@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Partner')
+@section('title', 'Kandang | Partner')
 
 @section('content')
     <div>
@@ -32,7 +32,7 @@
                     </h1>
                     <div class="mt-5 max-w-3xl">
                         <p class="text-lg text-textbase">Kelola peternakan, jual hewan ternak, beli hewan ternak
-                            dengan berbagai layanan yang tersedia di eFarm.</p>
+                            dengan berbagai layanan yang tersedia di Kandang.</p>
                     </div>
                     <div class="mt-12 grid grid-cols-2 gap-8 sm:grid-cols-2 sm:gap-0 sm:gap-x-4">
                         <a href="{{ route('partner.submission') }}"
@@ -78,7 +78,7 @@
 
         <section class="flex flex-col py-20">
             <h1 class="block font-bold text-textbase text-center text-5xl md:text-5xl lg:text-6xl">
-                Rekam Jejak <span class="text-primarybase ">eFarm</span>
+                Rekam Jejak <span class="text-primarybase ">Kandang</span>
             </h1>
             <div
                 class="mt-10 grid md:grid-cols-4 lg:grid-cols-4 gap-y-5 lg:gap-y-0 gap-x-5 place-items-center w-full mx-auto max-w-7xl px-5">
@@ -481,7 +481,7 @@
         <section class="bg-gray-50 py-12 pb-32 sm:py-10 lg:py-10 xl:py-10">
             <div class="mx-auto max-w-7xl ">
                 <div class="text-center">
-                    <p class="text-lg font-semibold text-textbase">Cara menjadi Partner eFarm?</p>
+                    <p class="text-lg font-semibold text-textbase">Cara menjadi Partner Kandang?</p>
                     <h2 class="mt-6 text-6xl font-bold tracking-tight text-textbase sm:text-4xl lg:text-5xl">Hanya 4 langkah, <span class="text-primarybase">tanpa ribet</span>
                     </h2>
                     <p class="mx-auto mt-4 max-w-2xl text-lg font-normal text-textbase lg:text-xl lg:leading-8">

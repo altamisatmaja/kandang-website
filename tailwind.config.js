@@ -78,8 +78,8 @@ module.exports = {
                     800: '#155E75',
                     900: '#164E63'
                   },
-                'primarybase' : '#AAC14C',
-                'sekunderbase': '#EAEFD2',
+                'primarybase' : '#703A3C',
+                'sekunderbase': '#A76F71',
                 'textbase' : '#444444',
             },
         },

@@ -23,11 +23,11 @@
             <div class="flex items-center">
                 <div class="flex-shrink-0">
                     <span class="text-2xl sm:text-3xl leading-none font-bold text-gray-900">{{ $total_product }}</span>
-                    <h3 class="text-base font-normal text-gray-500">Total produk di eFarm</h3>
+                    <h3 class="text-base font-normal text-gray-500">Total produk di Kandang</h3>
                 </div>
-                <div class="ml-5 w-0 flex items-center justify-end flex-1 text-green-500 text-base font-bold">
+                <div class="ml-5 w-0 flex items-center justify-end flex-1 text-primarybase text-base font-bold">
                     <svg xmlns="http://www.w3.org/2000/svg" height="50px" viewBox="0 -960 960 960" width="50px"
-                        fill="#AAC14C">
+                        fill="#703A3C">
                         <path
                             d="M841-518v318q0 33-23.5 56.5T761-120H201q-33 0-56.5-23.5T121-200v-318q-23-21-35.5-54t-.5-72l42-136q8-26 28.5-43t47.5-17h556q27 0 47 16.5t29 43.5l42 136q12 39-.5 71T841-518Zm-272-42q27 0 41-18.5t11-41.5l-22-140h-78v148q0 21 14 36.5t34 15.5Zm-180 0q23 0 37.5-15.5T441-612v-148h-78l-22 140q-4 24 10.5 42t37.5 18Zm-178 0q18 0 31.5-13t16.5-33l22-154h-78l-40 134q-6 20 6.5 43t41.5 23Zm540 0q29 0 42-23t6-43l-42-134h-76l22 154q3 20 16.5 33t31.5 13ZM201-200h560v-282q-5 2-6.5 2H751q-27 0-47.5-9T663-518q-18 18-41 28t-49 10q-27 0-50.5-10T481-518q-17 18-39.5 28T393-480q-29 0-52.5-10T299-518q-21 21-41.5 29.5T211-480h-4.5q-2.5 0-5.5-2v282Zm560 0H201h560Z" />
                     </svg>
@@ -38,11 +38,11 @@
             <div class="flex items-center">
                 <div class="flex-shrink-0">
                     <span class="text-2xl sm:text-3xl leading-none font-bold text-gray-900">{{ $total_user }}</span>
-                    <h3 class="text-base font-normal text-gray-500">Total pengguna di eFarm</h3>
+                    <h3 class="text-base font-normal text-gray-500">Total pengguna di Kandang</h3>
                 </div>
-                <div class="ml-5 w-0 flex items-center justify-end flex-1 text-green-500 text-base font-bold">
+                <div class="ml-5 w-0 flex items-center justify-end flex-1 text-primarybase text-base font-bold">
                     <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px"
-                        fill="#AAC14C">
+                        fill="#703A3C">
                         <path
                             d="M38-160v-94q0-35 18-63.5t50-42.5q73-32 131.5-46T358-420q62 0 120 14t131 46q32 14 50.5 42.5T678-254v94H38Zm700 0v-94q0-63-32-103.5T622-423q69 8 130 23.5t99 35.5q33 19 52 47t19 63v94H738ZM358-481q-66 0-108-42t-42-108q0-66 42-108t108-42q66 0 108 42t42 108q0 66-42 108t-108 42Zm360-150q0 66-42 108t-108 42q-11 0-24.5-1.5T519-488q24-25 36.5-61.5T568-631q0-45-12.5-79.5T519-774q11-3 24.5-5t24.5-2q66 0 108 42t42 108ZM98-220h520v-34q0-16-9.5-31T585-306q-72-32-121-43t-106-11q-57 0-106.5 11T130-306q-14 6-23 21t-9 31v34Zm260-321q39 0 64.5-25.5T448-631q0-39-25.5-64.5T358-721q-39 0-64.5 25.5T268-631q0 39 25.5 64.5T358-541Zm0 321Zm0-411Z" />
                     </svg>
@@ -53,11 +53,11 @@
             <div class="flex items-center">
                 <div class="flex-shrink-0">
                     <span class="text-2xl sm:text-3xl leading-none font-bold text-gray-900">{{ $total_partner }}</span>
-                    <h3 class="text-base font-normal text-gray-500">Total partner di eFarm</h3>
+                    <h3 class="text-base font-normal text-gray-500">Total partner di Kandang</h3>
                 </div>
                 <div class="ml-5 w-0 flex items-center justify-end flex-1 text-red-500 text-base font-bold">
                     <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px"
-                        fill="#AAC14C">
+                        fill="#703A3C">
                         <path
                             d="M480-629 354-755l126-126 126 126-126 126ZM40-160v-160q0-29 20.5-49.5T110-390h141q17 0 32.5 8.5T310-358q29 42 74 65t96 23q51 0 96-23t75-65q11-15 26-23.5t32-8.5h141q29 0 49.5 20.5T920-320v160H660v-119q-36 33-82.5 51T480-210q-51 0-97-18t-83-51v119H40Zm120-300q-45 0-77.5-32.5T50-570q0-46 32.5-78t77.5-32q46 0 78 32t32 78q0 45-32 77.5T160-460Zm640 0q-45 0-77.5-32.5T690-570q0-46 32.5-78t77.5-32q46 0 78 32t32 78q0 45-32 77.5T800-460Z" />
                     </svg>

@@ -1,6 +1,6 @@
 @extends('includes.app')
 
-@section('title', 'eFarm | Partner Login')
+@section('title', 'Kandang | Partner Login')
 
 @section('content')
     <div>

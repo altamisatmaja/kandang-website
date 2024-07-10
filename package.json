@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "npm run development",
-        "artisan": "npx tailwindcss --watch -o ./resources/css/app.css",
+        "artisan": "npx tailwindcss --watch -i ./resources/css/style.css -o ./resources/css/app.css",
         "development": "mix",
         "watch": "mix watch",
         "watch-poll": "mix watch -- --watch-options-poll=1000",

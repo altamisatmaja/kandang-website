@@ -19,8 +19,8 @@
                 </button>
                 <a href="#" class="text-xl font-bold flex items-center lg:ml-2.5">
                     <img src="{{ asset('logo.svg') }}" class="h-6 mr-2"
-                        alt="eFarm">
-                    {{-- <span class="self-center whitespace-nowrap">eFarm</span> --}}
+                        alt="Kandang">
+                    {{-- <span class="self-center whitespace-nowrap">Kandang</span> --}}
                 </a>
                 {{-- <form action="#" method="GET" class="hidden lg:block lg:pl-32">
                     <label for="topbar-search" class="sr-only">Search</label>
