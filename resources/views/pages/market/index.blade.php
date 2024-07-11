@@ -12,8 +12,8 @@
                             <li>
                                 <div
                                     class="flex items-center text-lg font-medium opacity-60 transition-all duration-300 hover:text-primarybase">
-                                    <svg class="mr-2.5 h-3 w-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                        viewBox="0 0 20 20">
+                                    <svg class="mr-2.5 h-3 w-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                        fill="currentColor" viewBox="0 0 20 20">
                                         <path
                                             d="m19.707 9.293-2-2-7-7a1 1 0 0 0-1.414 0l-7 7-2 2a1 1 0 0 0 1.414 1.414L2 10.414V18a2 2 0 0 0 2 2h3a1 1 0 0 0 1-1v-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v4a1 1 0 0 0 1 1h3a2 2 0 0 0 2-2v-7.586l.293.293a1 1 0 0 0 1.414-1.414Z" />
                                     </svg>
@@ -25,8 +25,8 @@
                                     class="flex items-center gap-2 text-lg font-medium opacity-60 transition-all duration-300 hover:text-primarybase">
                                     <svg class="h-3 w-3 text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
                                         fill="none" viewBox="0 0 6 10">
-                                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="m1 9 4-4-4-4" />
+                                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                            stroke-width="2" d="m1 9 4-4-4-4" />
                                     </svg>
                                     <a href="{{ route('homepage.market') }}"> Market </a>
                                 </div>
@@ -34,11 +34,12 @@
                         </ol>
                     </div>
                     <div class="container mx-auto flex flex-col lg:flex-row">
-                        <div style="background-image: url('{{ asset('images/hero-satu.png') }}')"
+                        <div style="background-image: url('https://kandang.divotahta.com/images/hero-satu.png')"
                             class=" relative lg:w-2/3 rounded-xl bg-secondary-lite bg-cover p-8 md:p-16">
                             <p class="max-w-sm text-textbase text-3xl md:text-4xl font-semibold">Nikmati pembelian kambing
                                 tanpa ribet, cukup scan, dapat kambing</p>
-                            <p class="max-w-xs pr-10 text-textbase font-semibold mt-8">Cari kambing terdekat Anda dan lakukan
+                            <p class="max-w-xs pr-10 text-textbase font-semibold mt-8">Cari kambing terdekat Anda dan
+                                lakukan
                                 pembelian!</p>
                             <a href="{{ route('homepage.market.nearest') }}"
                                 class="mt-20 flex bg-primarybase w-1/4 items-center justify-center text-white font-semibold py-2 rounded-md">Beli
@@ -48,7 +49,7 @@
                             </div>
                         </div>
                         <!-- right -->
-                        <div style="background-image: url('{{ asset('images/hero-dua.png') }}')"
+                        <div style="background-image: url('https://kandang.divotahta.com/images/hero-dua.png')"
                             class=" lg:mt-0 relative md:mt-2 xs:mt-2 lg:ml-6 lg:w-1/3 rounded-xl bg-primary-lite bg-cover p-8 md:p-16">
                             <div class="max-w-sm">
                                 <p class="text-3xl md:text-4xl text-textbase font-bold">Hewan terdekat Anda</p>

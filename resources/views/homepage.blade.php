@@ -5,7 +5,7 @@
 @section('content')
         <div class="relative h-[40rem] isolate overflow-hidden bg-primarybase">
             <div class="absolute top-0 w-full h-full bg-center bg-cover"
-                style="background-image: url('{{ asset('images/herofixed.png') }}');">
+                style="background-image: url('https://kandang.divotahta.com/images/herofixed.png');">
                 <span id="blackOverlay" class="w-full h-full absolute opacity-25 bg-black"></span>
             </div>
 

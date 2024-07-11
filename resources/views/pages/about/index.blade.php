@@ -49,7 +49,7 @@
             <section
                 class="flex flex-col mt-20 w-full h-[500px] bg-blur bg-cover bg-fixed bg-center flex justify-center items-center rounded-3xl"
                 style="
-                background-image: url({{ asset('images/herofixed.png') }});
+                background-image: url('https://kandang.divotahta.com/images/herofixed.png');
             ">
                 <h1 class="text-primarybase text-7xl font-bold mt-20 mb-10">
                     Kandang

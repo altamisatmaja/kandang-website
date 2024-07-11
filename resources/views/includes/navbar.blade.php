@@ -9,7 +9,7 @@
         class="bg-white border-b border-gray-200 text-white py-2 items-center flex flex-wrap px-4 md:px-10 md:flex md:items-center md:justify-between justify-start">
         <div class="pl-4 md:pl-0">
             <a href="/">
-                <img class="rounded-lg w-20 md:w-32" src="{{ asset('logo.png') }}" alt="Kandang logo" />
+                <img class="rounded-lg w-20 md:w-32" src="{{ asset('https://kandang.divotahta.com/logo.png') }}" alt="Kandang logo" />
             </a>
         </div>
 
