@@ -82,10 +82,8 @@ class AuthCustomerController extends Controller
             'konfirmasi_password' => 'required',
         ]);
 
-        if ($validator->fails()) {
-            return response()->json([
-                $validator->errors(), 422
-            ]);
+        if($validator->fails()){
+            return redirect()->back()->withErrors($validator);
         }
 
         $input = $request->all();
@@ -94,11 +92,12 @@ class AuthCustomerController extends Controller
         $user = User::create($input);
 
         if ($user) {
-            $this->service->sendVerificationLink($user);
-            return response()->json([
-                'data' => $user
-            ]);
+            $request->session()->regenerate();
+            return redirect()->route('customer.login')->with('success', 'Pendaftaran berhasil dilakukan!');
+        } else {
+            return redirect()->back()->with('error', 'Pendaftaran gagal. Silakan coba lagi.')->withInput();
         }
+
     }
 
     public function logout()

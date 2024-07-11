@@ -148,8 +148,6 @@ Route::get('/login/google/callback', [GoogleSocialiteController::class, 'handleC
  */
 Route::post('customer/register/account', [RegisterCustomerController::class, 'store'])
     ->name('register.customer.account');
-// Route::post('partner/verify/account', [PartnerAdminController::class, 'verify'])
-//     ->name('partner.verify.account');
 
 /**
      * Route for logout customer
@@ -178,7 +176,7 @@ Route::middleware('guest')->group(function () {
     // Route::get('customer/register', [RegisteredUserController::class, 'create'])
     //     ->name('register');
 
-    Route::post('register', [RegisteredUserController::class, 'store'])->name('register.store');
+    Route::post('register', [AuthCustomerController::class, 'register'])->name('register.store');
 
     Route::get('login', [AuthenticatedSessionController::class, 'create'])
         ->name('login');
@@ -365,7 +363,7 @@ Route::middleware(['auth', 'role:Admin'])->group(function () {
 Route::post('checkout/prepare', [CheckOutController::class, 'pre'])->name('customer.checkout.pre');
 Route::get('checkout/{slug_product}/{kuantitas}/{random}', [CheckOutController::class, 'index'])->name('customer.checkout');
 
-Route::middleware(['auth', 'role:Pelanggan', 'verified'])->group(function () {
+Route::middleware(['auth', 'role:Pelanggan'])->group(function () {
     /**
      * Route for account customer
      */
