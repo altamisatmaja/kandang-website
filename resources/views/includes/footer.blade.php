@@ -6,7 +6,7 @@
                     <p class="text-5xl font-bold text-textbase">
                         Butuh bantuan?
                     </p>
-                    <a href="https://www.instagram.com/ternakexpress" target="_blank"
+                    <a href="" target="_blank"
                         class="bg-primarybase cursor-pointer w-2/6 mt-4 font-semibold rounded-xl px-8 py-6 text-white text-4xl">
                         Hubungi kami 🤝
                     </a>
@@ -48,7 +48,7 @@
                                     Kami</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/ternakexpress" target="_blank"
+                                <a href="" target="_blank"
                                     class="text-md font-medium leading-6 text-white hover:text-gray-900">Kontak</a>
                             </li>
                             <li>
